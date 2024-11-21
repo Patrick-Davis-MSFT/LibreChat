@@ -1,0 +1,14 @@
+{ "analyzers": {
+  "core": {
+    "enabled": true,
+    "rules": {
+      "no-unused-params": {
+        "level": "warning"
+      }
+    }
+  }
+},
+  "experimentalFeaturesEnabled": {
+    "extensibility": true
+  }
+}
